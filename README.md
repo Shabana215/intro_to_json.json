@@ -10,7 +10,7 @@
   1. JSON Internet Media type is application/json.
   1. The Uniform Type Identifier is public.json.
 
-## Expense tracker
+### Expense tracker
 
 * For Single Entity the following is the example to write JSON
 ```json
