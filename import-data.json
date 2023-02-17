@@ -15,7 +15,11 @@
 * For Single Entity the following is the example to write JSON
 ```json
 {
-"Expense_id" = 1001, "Category" = "food", "Amount" = 300, "Purpose" = "Cash", "Description" = "Icecream"
+"Expense_id" = 1001, 
+"Category" = "food",
+"Amount" = 300, 
+"Purpose" = "Cash", 
+"Description" = "Icecream"
 }
 ```
 
