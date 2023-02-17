@@ -12,7 +12,8 @@
 
 ### Expense tracker
 
-* For Single Entity the following is the example to write JSON
+- For Single Entity the following is the example to write JSON
+
 ```json
 {
 "Expense_id" : 1001, 
@@ -23,7 +24,7 @@
 }
 ```
 
-* For Multiple entities in JSON
+- For Multiple entities in JSON
 
 ```json
 [
